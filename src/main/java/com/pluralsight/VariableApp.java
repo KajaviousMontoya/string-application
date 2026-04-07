@@ -20,6 +20,8 @@ public class VariableApp {
         System.out.println(favLetter);
         boolean currentlyRaining = false;
         System.out.println(currentlyRaining);
+    }
+
 
 
 
